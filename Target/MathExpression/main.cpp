@@ -18,5 +18,5 @@ int main(){
 
     std::cout << f << " " << a << std::endl;
     std::cout << g << " " << b << std::endl;
-
+    return 0;
 }
