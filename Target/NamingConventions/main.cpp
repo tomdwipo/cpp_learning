@@ -12,4 +12,6 @@ int main(){
     int FileSize; // pascal case
     int fileSize; // camel case
     int iFileSize; // hungarian notation
+    
+    return 0;
 }
